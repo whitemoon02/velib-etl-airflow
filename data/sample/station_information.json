@@ -1,0 +1,888 @@
+{
+ "lastUpdatedOther": 1791892800,
+ "ttl": 3600,
+ "data": {
+  "stations": [
+   {
+    "station_id": 100000,
+    "stationCode": "10000",
+    "name": "Vincennes - 0",
+    "lat": 48.858558,
+    "lon": 2.316638,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100037,
+    "stationCode": "10001",
+    "name": "Vincennes - 1",
+    "lat": 48.858078,
+    "lon": 2.303662,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100074,
+    "stationCode": "10002",
+    "name": "Saint-Michel - 2",
+    "lat": 48.861092,
+    "lon": 2.383024,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100111,
+    "stationCode": "10003",
+    "name": "Créteil - 3",
+    "lat": 48.859471,
+    "lon": 2.342983,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100148,
+    "stationCode": "10004",
+    "name": "Nation - 4",
+    "lat": 48.927255,
+    "lon": 2.262096,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100185,
+    "stationCode": "10005",
+    "name": "Montreuil - 5",
+    "lat": 48.897636,
+    "lon": 2.435154,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100222,
+    "stationCode": "10006",
+    "name": "Bagnolet - 6",
+    "lat": 48.877252,
+    "lon": 2.366278,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100259,
+    "stationCode": "10007",
+    "name": "Belleville - 7",
+    "lat": 48.857276,
+    "lon": 2.341234,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100296,
+    "stationCode": "10008",
+    "name": "Châtelet - 8",
+    "lat": 48.849882,
+    "lon": 2.336898,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100333,
+    "stationCode": "10009",
+    "name": "Choisy-le-Roi - 9",
+    "lat": 48.8551,
+    "lon": 2.357749,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100370,
+    "stationCode": "10010",
+    "name": "Saint-Denis - 10",
+    "lat": 48.849193,
+    "lon": 2.337209,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100407,
+    "stationCode": "10011",
+    "name": "Trocadéro - 11",
+    "lat": 48.864384,
+    "lon": 2.39309,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100444,
+    "stationCode": "10012",
+    "name": "Vitry - 12",
+    "lat": 48.912183,
+    "lon": 2.322586,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100481,
+    "stationCode": "10013",
+    "name": "Denfert - 13",
+    "lat": 48.874486,
+    "lon": 2.401649,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100518,
+    "stationCode": "10014",
+    "name": "Châtelet - 14",
+    "lat": 48.858768,
+    "lon": 2.364524,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100555,
+    "stationCode": "10015",
+    "name": "Vitry - 15",
+    "lat": 48.855671,
+    "lon": 2.344874,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100592,
+    "stationCode": "10016",
+    "name": "Châtelet - 16",
+    "lat": 48.776549,
+    "lon": 2.244438,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100629,
+    "stationCode": "10017",
+    "name": "Bagnolet - 17",
+    "lat": 48.844837,
+    "lon": 2.33304,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100666,
+    "stationCode": "10018",
+    "name": "Pigalle - 18",
+    "lat": 48.862427,
+    "lon": 2.355412,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100703,
+    "stationCode": "10019",
+    "name": "Nation - 19",
+    "lat": 48.863684,
+    "lon": 2.363359,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100740,
+    "stationCode": "10020",
+    "name": "Malakoff - 20",
+    "lat": 48.827797,
+    "lon": 2.371686,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100777,
+    "stationCode": "10021",
+    "name": "Montparnasse - 21",
+    "lat": 48.853593,
+    "lon": 2.340624,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100814,
+    "stationCode": "10022",
+    "name": "Porte d'Orléans - 22",
+    "lat": 48.819711,
+    "lon": 2.420427,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100851,
+    "stationCode": "10023",
+    "name": "Châtelet - 23",
+    "lat": 48.778687,
+    "lon": 2.329084,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100888,
+    "stationCode": "10024",
+    "name": "Créteil - 24",
+    "lat": 48.824939,
+    "lon": 2.346,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100925,
+    "stationCode": "10025",
+    "name": "Neuilly - 25",
+    "lat": 48.86016,
+    "lon": 2.364029,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100962,
+    "stationCode": "10026",
+    "name": "Montreuil - 26",
+    "lat": 48.843263,
+    "lon": 2.357259,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 100999,
+    "stationCode": "10027",
+    "name": "Vincennes - 27",
+    "lat": 48.849827,
+    "lon": 2.342474,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101036,
+    "stationCode": "10028",
+    "name": "Pantin - 28",
+    "lat": 48.846426,
+    "lon": 2.35865,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101073,
+    "stationCode": "10029",
+    "name": "Denfert - 29",
+    "lat": 48.827826,
+    "lon": 2.367613,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101110,
+    "stationCode": "10030",
+    "name": "Bastille - 30",
+    "lat": 48.825771,
+    "lon": 2.309385,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101147,
+    "stationCode": "10031",
+    "name": "Saint-Michel - 31",
+    "lat": 48.841875,
+    "lon": 2.336516,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101184,
+    "stationCode": "10032",
+    "name": "Choisy-le-Roi - 32",
+    "lat": 48.84587,
+    "lon": 2.294042,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101221,
+    "stationCode": "10033",
+    "name": "Saint-Michel - 33",
+    "lat": 48.849082,
+    "lon": 2.372441,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101258,
+    "stationCode": "10034",
+    "name": "Denfert - 34",
+    "lat": 48.865744,
+    "lon": 2.388907,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101295,
+    "stationCode": "10035",
+    "name": "République - 35",
+    "lat": 48.836119,
+    "lon": 2.329208,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101332,
+    "stationCode": "10036",
+    "name": "Nation - 36",
+    "lat": 48.840424,
+    "lon": 2.409578,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101369,
+    "stationCode": "10037",
+    "name": "Choisy-le-Roi - 37",
+    "lat": 48.859384,
+    "lon": 2.29037,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101406,
+    "stationCode": "10038",
+    "name": "Malakoff - 38",
+    "lat": 48.853544,
+    "lon": 2.35183,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101443,
+    "stationCode": "10039",
+    "name": "Pigalle - 39",
+    "lat": 48.859879,
+    "lon": 2.355106,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101480,
+    "stationCode": "10040",
+    "name": "Bastille - 40",
+    "lat": 48.829405,
+    "lon": 2.372307,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101517,
+    "stationCode": "10041",
+    "name": "Issy - 41",
+    "lat": 48.882901,
+    "lon": 2.363038,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101554,
+    "stationCode": "10042",
+    "name": "Montreuil - 42",
+    "lat": 48.858664,
+    "lon": 2.419847,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101591,
+    "stationCode": "10043",
+    "name": "Montparnasse - 43",
+    "lat": 48.797988,
+    "lon": 2.326152,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101628,
+    "stationCode": "10044",
+    "name": "Boulogne - 44",
+    "lat": 48.831177,
+    "lon": 2.372585,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101665,
+    "stationCode": "10045",
+    "name": "Vincennes - 45",
+    "lat": 48.891941,
+    "lon": 2.320984,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101702,
+    "stationCode": "10046",
+    "name": "Denfert - 46",
+    "lat": 48.826883,
+    "lon": 2.347289,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101739,
+    "stationCode": "10047",
+    "name": "Neuilly - 47",
+    "lat": 48.852626,
+    "lon": 2.356521,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101776,
+    "stationCode": "10048",
+    "name": "Levallois - 48",
+    "lat": 48.874233,
+    "lon": 2.326688,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101813,
+    "stationCode": "10049",
+    "name": "République - 49",
+    "lat": 48.874906,
+    "lon": 2.333108,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101850,
+    "stationCode": "10050",
+    "name": "Trocadéro - 50",
+    "lat": 48.850133,
+    "lon": 2.352309,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101887,
+    "stationCode": "10051",
+    "name": "Créteil - 51",
+    "lat": 48.850744,
+    "lon": 2.280323,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101924,
+    "stationCode": "10052",
+    "name": "Malakoff - 52",
+    "lat": 48.810624,
+    "lon": 2.339784,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101961,
+    "stationCode": "10053",
+    "name": "Neuilly - 53",
+    "lat": 48.820285,
+    "lon": 2.392113,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 101998,
+    "stationCode": "10054",
+    "name": "Vitry - 54",
+    "lat": 48.854389,
+    "lon": 2.244186,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102035,
+    "stationCode": "10055",
+    "name": "Nation - 55",
+    "lat": 48.891992,
+    "lon": 2.373206,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102072,
+    "stationCode": "10056",
+    "name": "Neuilly - 56",
+    "lat": 48.867749,
+    "lon": 2.343556,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102109,
+    "stationCode": "10057",
+    "name": "Bastille - 57",
+    "lat": 48.830476,
+    "lon": 2.293703,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102146,
+    "stationCode": "10058",
+    "name": "Saint-Michel - 58",
+    "lat": 48.864727,
+    "lon": 2.351225,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102183,
+    "stationCode": "10059",
+    "name": "Nation - 59",
+    "lat": 48.846032,
+    "lon": 2.352604,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102220,
+    "stationCode": "10060",
+    "name": "Gare de Lyon - 60",
+    "lat": 48.880224,
+    "lon": 2.323784,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102257,
+    "stationCode": "10061",
+    "name": "Opéra - 61",
+    "lat": 48.857102,
+    "lon": 2.323087,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102294,
+    "stationCode": "10062",
+    "name": "Ivry - 62",
+    "lat": 48.823552,
+    "lon": 2.447379,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102331,
+    "stationCode": "10063",
+    "name": "Place d'Italie - 63",
+    "lat": 48.86661,
+    "lon": 2.305114,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102368,
+    "stationCode": "10064",
+    "name": "Pantin - 64",
+    "lat": 48.834606,
+    "lon": 2.352559,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102405,
+    "stationCode": "10065",
+    "name": "Porte d'Orléans - 65",
+    "lat": 48.898902,
+    "lon": 2.408708,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102442,
+    "stationCode": "10066",
+    "name": "Saint-Denis - 66",
+    "lat": 48.864834,
+    "lon": 2.350793,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102479,
+    "stationCode": "10067",
+    "name": "Choisy-le-Roi - 67",
+    "lat": 48.827831,
+    "lon": 2.380418,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102516,
+    "stationCode": "10068",
+    "name": "Nation - 68",
+    "lat": 48.884845,
+    "lon": 2.282913,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102553,
+    "stationCode": "10069",
+    "name": "Saint-Denis - 69",
+    "lat": 48.84649,
+    "lon": 2.347495,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102590,
+    "stationCode": "10070",
+    "name": "Montparnasse - 70",
+    "lat": 48.846213,
+    "lon": 2.395809,
+    "capacity": 35,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102627,
+    "stationCode": "10071",
+    "name": "Châtelet - 71",
+    "lat": 48.857693,
+    "lon": 2.373054,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102664,
+    "stationCode": "10072",
+    "name": "Bercy - 72",
+    "lat": 48.874324,
+    "lon": 2.352944,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102701,
+    "stationCode": "10073",
+    "name": "Montparnasse - 73",
+    "lat": 48.861203,
+    "lon": 2.317433,
+    "capacity": 40,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102738,
+    "stationCode": "10074",
+    "name": "Choisy-le-Roi - 74",
+    "lat": 48.844684,
+    "lon": 2.327758,
+    "capacity": 50,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102775,
+    "stationCode": "10075",
+    "name": "Place d'Italie - 75",
+    "lat": 48.777266,
+    "lon": 2.461626,
+    "capacity": 25,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102812,
+    "stationCode": "10076",
+    "name": "Issy - 76",
+    "lat": 48.865245,
+    "lon": 2.326854,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102849,
+    "stationCode": "10077",
+    "name": "Ivry - 77",
+    "lat": 48.812996,
+    "lon": 2.293695,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102886,
+    "stationCode": "10078",
+    "name": "Vitry - 78",
+    "lat": 48.854845,
+    "lon": 2.33501,
+    "capacity": 20,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   },
+   {
+    "station_id": 102923,
+    "stationCode": "10079",
+    "name": "Bercy - 79",
+    "lat": 48.846782,
+    "lon": 2.350192,
+    "capacity": 30,
+    "rental_methods": [
+     "CREDITCARD"
+    ]
+   }
+  ]
+ }
+}
